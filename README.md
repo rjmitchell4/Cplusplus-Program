@@ -1,4 +1,4 @@
-Investment Calculator using C++ OOP
+# Investment Calculator using C++ OOP
 
 Summarize the project and what problem it was solving.
 
