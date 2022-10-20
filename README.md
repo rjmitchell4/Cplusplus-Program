@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Investment Calculator using C++ OOP
 
 # Summarize the project and what problem it was solving.
     For this project, we were required to create an object-oriented application for an imaginary company. The goal of the code is to allow for user input in which
