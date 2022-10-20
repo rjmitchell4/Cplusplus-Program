@@ -1,4 +1,4 @@
-# Investment Calculator using C++ OOP
+Investment Calculator using C++ OOP
 
 Summarize the project and what problem it was solving.
     For this project, we were required to create an object-oriented application for an imaginary company. The goal of the code is to allow for user input in which
@@ -21,12 +21,12 @@ Summarize the project and what problem it was solving.
       functions to be more apparent in their purposes. I have also begun doing a better job of testing portions of code before continuing its development to 
       ensure the process is resolved of bugs as soon as quickly. I am also learning to reach out for help, and better phrase questions for research and aid.
     
-    What skills from this project will be particularly transferable to other projects and/or course work?
+   What skills from this project will be particularly transferable to other projects and/or course work?
       I think all aspects of this program offered transferrable skills to other programs. Simply developing proficiency in object oriented programming is such 
       a profound and important skill that will help carry me forward. My debugging skills that were tuned during this process will also aid me in my future 
       endeavors, and generally pre-planning what purpose functions will serve ahead of time on paper will help me achieve success.
       
-    How did you make this program maintainable, readable, and adaptable?
+   How did you make this program maintainable, readable, and adaptable?
       I made sure to divide each aspect into very specific components within functions. I also kept each similar batch of methods close to each other for easy 
       navigation. I tried to make sure the flow of the code made sense, and also with it's very brief and concise main(), it will allow the code to be uprooted 
       and implemented in other projects if I so wish to do so. The straightforwardness of the program should allow for easy changes and quick maintenance, and is 
