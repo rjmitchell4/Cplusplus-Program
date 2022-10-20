@@ -1,6 +1,7 @@
 Investment Calculator using C++ OOP
 
 Summarize the project and what problem it was solving.
+
     For this project, we were required to create an object-oriented application for an imaginary company. The goal of the code is to allow for user input in which
     an initial investment, monthly deposits, percent interest, and number of years are to be entered, and a console displays the projected balance over time. It is
     a quick demonstration of the power of investment for those who were not so financially literate growing up, such as myself.
